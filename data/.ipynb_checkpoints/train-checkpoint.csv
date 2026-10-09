@@ -1,0 +1,161 @@
+id,requete,categorie
+train_001,Rendez-vous pour le service ait,RDV
+train_002,Je n'ai pas trouvé le service rhumatologie,Spécialités médicales
+train_003,prendre un rendez-vous pour un scanner de la tête,RDV
+train_004,Y'a il un service Odontologie ?,Spécialités médicales
+train_005,Je voudrais payer un facture,Facturation
+train_006,Je suis professionnel de santé je souhaite contacté le service de pneumologie pour recurper des informations sur une patiente,Coordonnées
+train_007,Soignez vous cancer de la vessie,Spécialités médicales
+train_008,Bonsoir. Je voudrais connaître le coût d'un bilan de santé complet avec bilan cardiovasculaire approfondi pour une femme  de 62 ans.,Facturation
+train_009,Qui sont les docteurs qui s’occupent de la dermatologie,Spécialités médicales
+train_010,Accouchement dans l’eau,Spécialités médicales
+train_011,Bonjour je souhaite prendre un rdv pour un échographie d'effort,RDV
+train_012,où trouver mes fractures,Facturation
+train_013,Ou payons les factures de l'hôpital ?,Facturation
+train_014,centre de la douleur,Spécialités médicales
+train_015,je souhaite obtenir l'adresse mail du service facturation / comptabilité,Facturation
+train_016,quel est le numéro SOS diagnostic poumon,Coordonnées
+train_017,Problème de servical,Spécialités médicales
+train_018,"Bonjour, y a-t-il un sommeil un service spécialisé sur les troubles du sommeil ?",Spécialités médicales
+train_019,Prendre rdv pour une scintigraphie cardiaque au traceur osseux,RDV
+train_020,bilan urodynamique,Spécialités médicales
+train_021,Payer consultation,Facturation
+train_022,Je souhaite un rendez vous avec un neurologue pour un émg des m’entres superieur,RDV
+train_023,inscription maternité,RDV
+train_024,Paiement de facture,Facturation
+train_025,Prendre un rdv en neurologie,RDV
+train_026,"bonjour, je souhaite retrouver mon identifiant de comte pour payer ma facture . merci",Facturation
+train_027,le numéro de téléphone du service de neuroradiologie,Coordonnées
+train_028,Comment régler une facture,Facturation
+train_029,je voudrais prendre rendez vous pour infiltration péridurale,RDV
+train_030,Je souhaiterais communiquer par mail avec le secretariat du Dr Debedde d'urologie. Je suis à l'étranger et ne peut pas telephoner,Coordonnées
+train_031,je veux le numéro du secrétariat,Coordonnées
+train_032,Faites  ous des coloscanner?,Spécialités médicales
+train_033,ou sont les dieteticiennes à FOoch,Spécialités médicales
+train_034,Adresse mail de neurologie,Coordonnées
+train_035,Les prises de sang sont elles ouvertes aujourd'hui 6 avril,RDV
+train_036,Mail du secretariat neuro chirurgie,Coordonnées
+train_037,Je veut payer une facture,Facturation
+train_038,bonjour j'ai besoin dune facture pour mon paiement,Facturation
+train_039,prendre r v avec le docteur romer julien,RDV
+train_040,pouvez vous me donner le numéro du service de néphrologie,Coordonnées
+train_041,"Bonjour, je suis déjà bien avancée dans ma grossesse. Puis-je tout de même m'inscrire ?",RDV
+train_042,faites vous les echodopler des TSA,Spécialités médicales
+train_043,Comment prendre rendez-vous pour une téléconsultation en addictologie ?,RDV
+train_044,je cherche à joindre le service de neurochirurgie,Coordonnées
+train_045,je souhaite savoir s'il y a des electromiogrammes,Spécialités médicales
+train_046,quel est le numéro du neurologue de garde,Coordonnées
+train_047,Prise en charge cancer soins support,Facturation
+train_048,je souhaite prendre un rendez vous,RDV
+train_049,quel est le numéro du service administratif,Coordonnées
+train_050,Y a t il le service neurologie,RDV
+train_051,Prendre rendez-vous,RDV
+train_052,est-ce que vous avez des services spécialisés dans les problèmes d'endométriose,Spécialités médicales
+train_053,Je souhaite récupère la facture de mes soins,Facturation
+train_054,Adresse mail service facturation. Merci,Facturation
+train_055,Est il facile d’obtenir un rendez vous,RDV
+train_056,Votre unité de diabétologie prend elle actuellement en charge les patients pour un diabète Type 2 ?,Spécialités médicales
+train_057,Je ne trouve pas le formulaire pour prendre un rendez-vous,RDV
+train_058,"Bonjour, j'ai une facture a regler en attente , pourriez vous me renvoyer la facture pour que je puisse la regler",Facturation
+train_059,Prendre rdv pour une échographie,RDV
+train_060,Bonjour peut on envoyer un mail au docteur ?,Coordonnées
+train_061,Payé une facture,Facturation
+train_062,y a t il un service DERMATOLOGIE,Spécialités médicales
+train_063,Bonjour j'aimerai un devis pour la maternité,Facturation
+train_064,Combien coûte une IRM cerebrale,Facturation
+train_065,prise en charge fausse couche spontanée,Spécialités médicales
+train_066,Je veux prendre rdv pour une irm avec injection,RDV
+train_067,Service cardiaque,Spécialités médicales
+train_068,Comment je peux faire j’ai téléphoné au moins dix fois le servi imagerie me répond pas au téléphone,Coordonnées
+train_069,Douleur lombaire due a un tassement de vertebre Peut on envisager une vetebroplastie ?,Spécialités médicales
+train_070,"bonjour ,je suis brikela latifi,comment puis-je régler une facture",Facturation
+train_071,je voudrais prendre rdc pour un irm hypofisaire,RDV
+train_072,"Je suis un homme que j’aimerais redevenir, changeant, apparence en femme avoir une greffe utérus",Spécialités médicales
+train_073,J'aimerais contacter le secretariat,Coordonnées
+train_074,Pouvez-vous me proposer un RV pour un thallium d’effort demandé par mon cardiologue ?,RDV
+train_075,Je dois venir aux urgences pour une opération de l'appendicite. Est-ce pris en charge par ma mutuelle?,Facturation
+train_076,Téléphone de l'accueil pneumologie,Coordonnées
+train_077,Y a-t-il un service pédiatrique ?,Spécialités médicales
+train_078,combien ca coute daccoucher dans votre hopital,Facturation
+train_079,Un service de cardiologie existe t il?,Spécialités médicales
+train_080,Je sors demain dois je payer,Facturation
+train_081,Contact oncologie,Coordonnées
+train_082,bonjour. je veux connaitre les Consultations environnementales du service sante des femmes,Spécialités médicales
+train_083,Rendez vous pneumologue,RDV
+train_084,je dois régler ma facture sur quel portail dois-je me connecter,Facturation
+train_085,numéro d'urgence,Coordonnées
+train_086,Pourrais je avoir le numéro du service hospitalisation pneumologie,Coordonnées
+train_087,Peut tu m’orienter vers le service urologie,Spécialités médicales
+train_088,Bonjour je veux prendre un rendez-vous avec un diabito,RDV
+train_089,Contacter le secretariat de pneumologie,Coordonnées
+train_090,Quelle sont les dosponibilité en dermatomogie,Spécialités médicales
+train_091,réalisez-vous du LASER SLT en ophtalmologie ?,Spécialités médicales
+train_092,"Bonjour, comment prendre rdv pour une coloscopie ?",RDV
+train_093,Hello I would like to make an appointment with an gastroenterologist but I don't speak french so cannot call by phone and doctolib does not allow me to mak ean appointment online,RDV
+train_094,horaire service facturation,Facturation
+train_095,et en orthopedie ?,Spécialités médicales
+train_096,contacter par mail le secrétariat du service d'ophtalmologie,Coordonnées
+train_097,Consultation ménopause,RDV
+train_098,Bonjour comment  avoir le secrétariat  du service  maternité,Coordonnées
+train_099,joindre docteur wang,Coordonnées
+train_100,Prendre rdv pour endométriose,RDV
+train_101,"bonjour, je dois passer une coloscope, quel est le délai et le tarif ?",Facturation
+train_102,puis je avoir le mail du service gastro entérologue merci,Coordonnées
+train_103,Quel est le service de neuromodulation ?,Spécialités médicales
+train_104,Je suis medecin .je souhaite joindre l’interne de neurochirurgie,Coordonnées
+train_105,je cherche un numéro de téléphone,Coordonnées
+train_106,je souhaite prendre rendez vous en neurologie,RDV
+train_107,adresse mail concernant le paiement en plusieurs fois du montant,Facturation
+train_108,"Bonjour, je recherche l'adresse mail du secrétariat d'urologie pour envoyer des résultats. Merci",Coordonnées
+train_109,Service psychiatrie,Spécialités médicales
+train_110,"Bonjour,  je voudrais le numéro de téléphone de l'imagerie",Coordonnées
+train_111,Hi iI need email for hospital,Coordonnées
+train_112,Je souhaite régler une facture,Facturation
+train_113,"bonjour, est-ce que vous avez des urgences pour enfants?",Spécialités médicales
+train_114,comment prendre rende-vous avec le professeur hans,RDV
+train_115,Puis je régler ma facture par voie postal?,Facturation
+train_116,Je voudrais prendre rendez-vous avec sabrina mahar,RDV
+train_117,Comment regler ma facture de soins externe du5 fevrier 2026 a qui envoyer mon cheque,Facturation
+train_118,comment fonctionne le service UAPO,Spécialités médicales
+train_119,"Bonjour, j'aimerais annuler un rdv par mail",RDV
+train_120,test micro -2 aujourd'hui je voudrais avoir des informations sur les consultations pour la dermatologie,Spécialités médicales
+train_121,y a t il des dépassements d'honoraires ?,Facturation
+train_122,adresse mail pneumologie,Coordonnées
+train_123,Je veux prendre rdv avec un dr. pneumolog,RDV
+train_124,Je souhaite prendre un rendez-vous pour une radio du coude,RDV
+train_125,"Bonjour, je cherche un dermatologue",Spécialités médicales
+train_126,Bonjour existe-il des urgences urologie ?,Spécialités médicales
+train_127,Comment préndre rendez vous échographie prostatique,RDV
+train_128,adresse mail du service thoracique,Coordonnées
+train_129,Tarif ultrasons urologie,Facturation
+train_130,Comment payer ma facture ?,Facturation
+train_131,geriatre cabinet nr. de telephone,Coordonnées
+train_132,Comment prendre en charge pour ma mère en gériatrie pour ces problèmes cognitifs,Spécialités médicales
+train_133,bonjour est ce possible de faire un examen d osteodensitométrie,Spécialités médicales
+train_134,je n'ai pas recu une facture suite à un passage aux urgences. a qui demander la facture,Facturation
+train_135,Je voudrais juste règler une facture en ligne. Merci.,Facturation
+train_136,"Je suis age de 66 ans et fumeur depuis 40 ans, puis-je bénéficier du scanner",RDV
+train_137,Comment prendre rdv pour une prise de sang,RDV
+train_138,Comment prendre rdv avec un neurochirurgien ?,RDV
+train_139,Je désire joindre le secrétariat du Dr Vernier,Coordonnées
+train_140,Quel praticien pour une cimentoplastie,Spécialités médicales
+train_141,je souhaite contacter le service médiation,Coordonnées
+train_142,bonjour je voudrais savoir si vous faites des opérations de chirurgie viscérale à l'hôpital,Spécialités médicales
+train_143,Règlement de facture,Facturation
+train_144,Fait on des interventions de cimentoplastie,Spécialités médicales
+train_145,Je souhaiterais appeler le secrétariat d'ophtalmologie,Coordonnées
+train_146,bonjour je voudrais prendre rendez-vous en ophtalmologie tu peux m'indiquer la procédure,RDV
+train_147,Je souhaite parler à un conseiller humain.,Coordonnées
+train_148,je cherche madame somai sara,Coordonnées
+train_149,bonjour je veux payer ma facture,Facturation
+train_150,"Bonjour, je n'ai pas reçu la facture suite à mon rdv le 6 Février",Facturation
+train_151,Commment on paie la facture,Facturation
+train_152,quel le mail du service urologie,Coordonnées
+train_153,Quand vais-je recevoir la confirmation de paiement de ma facture ?,Facturation
+train_154,"Bonjour, je cherche l'adresse mail du secrétariat des urgences",Coordonnées
+train_155,hello possible de prendre Rdv par mail ?,RDV
+train_156,Je souhaite payer une facture en ligne,Facturation
+train_157,REALISEZ VOUS LES EXAMENS DATSCAN DANS VOTRE SEVICE DE MEDECINE NUCLEAIRE,Spécialités médicales
+train_158,Bonjour je souhaite obtenir le numero de téléphone du service ophtalmologique,Coordonnées
+train_159,je souhaite faire une echographie,RDV
+train_160,Quel est le telephone du centre d'Évaluation & traitement de la Douleur\n,Coordonnées
